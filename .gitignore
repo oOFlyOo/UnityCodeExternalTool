@@ -60,3 +60,7 @@ Temp
 # Project
 EditorScript
 RuntimeScript
+
+# CustomUnityCompiler
+bin/
+obj/

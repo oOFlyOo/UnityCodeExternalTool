@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-#if UNITY_EDITOR
-public class PluginScript : MonoBehaviour {
+public class Script2 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -14,4 +13,3 @@ public class PluginScript : MonoBehaviour {
 	
 	}
 }
-#endif
