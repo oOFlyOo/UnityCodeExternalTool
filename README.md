@@ -9,4 +9,7 @@ ___
 3. 允许生成工程的时候不生成部分代码，如 Assembly-CSharp.dll 整个 dll
 4. 修改编译器，支持如 [Unity3D.IncrementalCompiler](https://github.com/oOFlyOo/Unity3D.IncrementalCompiler) 功能
 
+# CustomUnityCompiler
+- 注意依赖 UnityCodeExternalTool\Library\UnityAssemblies 生成的 dll，运行 Unity 之后打开一下 VS 生成即可
+
 ___
